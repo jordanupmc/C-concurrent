@@ -4,8 +4,8 @@ Basic Pool Thread and variable Future implementation in C inspired by the Execut
 
 ## Features
 
-*Create a pool thread with a fixed size, then submit a task wich return a variable future/promise.
-*Possibility to associate a function that is call when the asynchronous computation is terminated.   
+* Create a pool thread with a fixed size, then submit a task wich return a variable future/promise.
+* Possibility to associate a function that is call when the asynchronous computation is terminated.   
 
 ## Getting Started
 
